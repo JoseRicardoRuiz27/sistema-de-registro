@@ -1,2 +1,7 @@
 <h1 align="center">Titulo Previo</h1>
-<p align="left">previo</p>
+
+-Estado del proyecto: En contrucción
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
